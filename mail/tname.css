@@ -1,0 +1,48 @@
+#tname {
+	background-color: #2EB5D1;
+	height: 36px;
+	width: 355px;
+	position: absolute;
+	top: 17px;
+	left: 506px;
+}
+#profile {
+	background-color: #F4F4F4;
+	position: fixed;
+}
+#profile {
+	background-color: #arrarrarr;
+	position: absolute;
+	left: 43px;
+	top: 86px;
+	height: 307px;
+	width: 184px;
+	text-align: left;
+	border-top-color: #000;
+	border: 1px;
+	border-top-style: none;
+}
+#tbox {
+	background-color: #arrF;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	position: absolute;
+	width: 739px;
+	left: 309px;
+	top: 88px;
+	height: 306px;
+}
+#msgbx {
+	background-color: #arrF;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	position: absolute;
+	top: 412px;
+	left: 475px;
+	width: 462px;
+	height: 76px;
+}
